@@ -7,18 +7,24 @@ const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
+            src: e-shop,
+            demo: 'https://next13-ecommerce-app.vercel.app',
+            code: 'https://github.com/anileve23/next13-ecommerce-app'
+        },
+        {
+            id: 2,
             src: evelicious,
             demo: 'https://anileve23.github.io/learning-scss/',
             code: 'https://github.com/anileve23/learning-scss'
         },
         {
-            id: 2,
+            id: 3,
             src: authentification,
             demo: 'https://anileve23.github.io/my-authentification/#/login',
             code: 'https://github.com/anileve23/my-authentification'
         },
         {
-            id: 3,
+            id: 4,
             src: purrfect,
             demo: 'https://anileve23.github.io/Purrfect-Adoptions/html/home.html',
             code: 'https://github.com/anileve23/Purrfect-Adoptions'
