@@ -2,7 +2,7 @@ import React from 'react';
 import evelicious from '../assets/portfolio/evelicious.png';
 import authentification from '../assets/portfolio/authentification.png';
 import purrfect from '../assets/portfolio/purrfect.png';
-import eshop from '..assets/portfolio/e-shop.png';
+import eshop from '..assets/portfolio/eshop.png';
 
 const Portfolio = () => {
     const portfolios = [
