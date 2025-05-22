@@ -2,12 +2,13 @@ import React from 'react';
 import evelicious from '../assets/portfolio/evelicious.png';
 import authentification from '../assets/portfolio/authentification.png';
 import purrfect from '../assets/portfolio/purrfect.png';
+import eshop from '..assets/portfolio/e-shop.png';
 
 const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
-            src: e-shop,
+            src: eshop,
             demo: 'https://next13-ecommerce-app.vercel.app',
             code: 'https://github.com/anileve23/next13-ecommerce-app'
         },
